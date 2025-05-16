@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Countdown Timer",
-  description: "A beautiful countdown timer to June 1, 2025",
+  title: "Vode: Your all in one financial workspace.",
+  description: "Coming June 07, 2025",
 };
 
 export default function RootLayout({
