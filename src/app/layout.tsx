@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Vode: Your all in one financial workspace.",
+  title: "Vode: Your all in one financial workspace",
   description: "Coming June 07, 2025",
 };
 
