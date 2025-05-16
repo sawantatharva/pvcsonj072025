@@ -82,7 +82,7 @@ export default function Home() {
           {/* Subline Text - Responsive text size and spacing */}
           <div className="flex flex-col items-center justify-center w-full max-w-xs xs:max-w-sm sm:max-w-md md:max-w-lg lg:max-w-xl mx-auto mb-5 sm:mb-6 md:mb-7 px-2">
             <p className="text-white/70 text-sm xs:text-base sm:text-lg md:text-xl mb-1 sm:mb-2 text-center w-full">
-              Vode is not a dashboard — it's a discipline.
+              Vode is not a dashboard — it&apos;s a discipline.
             </p>
             <p className="text-white/70 text-sm xs:text-base sm:text-lg md:text-xl text-center w-full">
               A modular OS for those who master finance, not manage it.
