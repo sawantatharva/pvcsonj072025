@@ -92,7 +92,7 @@ export default function Home() {
           {/* Waitlist Button - Responsive sizing */}
           <div className="flex justify-center items-center w-full mb-8 sm:mb-10 md:mb-12">
             <a 
-              href="https://typeform.com" 
+              href="https://form.typeform.com/to/V8qx5NHJ" 
               target="_blank" 
               rel="noopener noreferrer"
               className="px-4 xs:px-5 sm:px-6 md:px-8 py-2 xs:py-2.5 sm:py-3 bg-white/10 hover:bg-white/15 border border-white/20 text-white text-sm xs:text-base font-medium rounded-full transition-all duration-300 hover:shadow-lg"
